@@ -1,0 +1,6 @@
+com/bridgelabz/controller/Gareportresponse.class
+com/bridgelabz/controller/initializeAnalyticsReporting.class
+com/bridgelabz/model/GAreport.class
+com/bridgelabz/GAreportsummaryreader.class
+com/bridgelabz/GAreportsummary1reader.class
+com/bridgelabz/HelloAnalyticsReporting.class
